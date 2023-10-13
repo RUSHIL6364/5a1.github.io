@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", function () {
    
     const products = [
     { name: "Product 1", price: "$10", image: "pro.jpg" },
-    { name: "Product 2", price: "$20", image: "niru.jpg" },
+    { name: "Product 2", price: "$20", image: "niru1.jpg" },
     { name: "Product 3", price: "$30", image: "pro.jpg" },
     ];
    
